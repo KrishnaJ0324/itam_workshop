@@ -323,4 +323,10 @@ if __name__ == "__main__":
     print(f"    · {len(licenses)} software titles  (software_licenses.csv)")
     print(f"    · {len(incidents)} incidents  (it_incidents.csv)")
     print("\n  Starting server → http://localhost:7860\n")
-    demo.launch(server_name="0.0.0.0", server_port=7860, share=True, theme=THEME, css=CSS)
+    demo.queue().launch(
+    server_name="0.0.0.0",
+    server_port=7860,
+    share=True,
+    theme=THEME,
+    css=CSS
+)

@@ -1,0 +1,11 @@
+🔹 Prompts
+“Which publishers are most commonly used across all departments?”
+“List all tools used by the DevOps team.”
+“Which publisher has the highest number of stakeholders?”
+“Show me all Microsoft products and their associated teams.”
+“Which tools are used by both Finance and Strategy teams?”
+“Give me a summary of tools used in engineering workflows.”
+“Which publishers are used across multiple departments?”
+“Find tools that are critical for project management (PMO).”
+“Which stakeholders are associated with the most tools?”
+“List all publishers along with their key stakeholders.”

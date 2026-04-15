@@ -17,6 +17,12 @@ import sys
 import os
 from datetime import datetime
 
+# Configure stdout/stderr to use UTF-8 to prevent 'charmap' encoding errors on Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
 # Always run from repo root regardless of where the user calls this from
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -41,12 +47,15 @@ def run():
 
     results = []
 
+    run_env = os.environ.copy()
+    run_env['PYTHONIOENCODING'] = 'utf-8'
+
     for label, title, script in SCRIPTS:
         print(f"\n  ▶  Running {label}: {title}...")
         try:
             result = subprocess.run(
                 [sys.executable, script],
-                capture_output=True, text=True
+                capture_output=True, text=True, encoding='utf-8', env=run_env
             )
             if result.returncode == 0:
                 print(f"  ✔  {label} complete")

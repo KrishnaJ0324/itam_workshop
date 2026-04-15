@@ -1,0 +1,11 @@
+🔹 Prompts
+“What are the most common root causes of incidents?”
+“Show me all high severity incidents.”
+“Which incidents were caused by configuration issues?”
+“How many incidents occurred due to certificate expiry?”
+“List incidents that are still unresolved.”
+“Which incident took the longest time to resolve?”
+“Give me a breakdown of incidents by severity level.”
+“Show recent incidents related to network issues.”
+“Which root causes appear most frequently?”
+“Summarize incident trends and suggest improvements.”

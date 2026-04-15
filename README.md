@@ -22,9 +22,9 @@ pip install -r requirements.txt
 
 ### Step 2 — Add your API key
 ```
-cp .env.example .env
+nano .env
 ```
-Open `.env` and replace `your_openrouter_api_key_here` with your key from https://openrouter.ai/keys
+Opens `.env` and add your_openrouter_api_key from https://openrouter.ai/keys
 
 ### Step 3 — Start the agent
 ```
@@ -66,7 +66,7 @@ Reports appear in `output/` — no browser needed.
 ## Repository Structure
 
 ```
-readyops-itam-demo/
+itam_workshop/
 ├── agent.py              <- AI agent with Gradio UI  <- START HERE
 ├── run_all.py            <- batch run all 4 reports
 ├── requirements.txt      <- Python dependencies

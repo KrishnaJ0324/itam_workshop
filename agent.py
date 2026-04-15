@@ -71,7 +71,8 @@ When answering questions:
 - Use clear sections and bullet points in your response
 - Flag risks, anomalies, and action items clearly
 - For tabular data, use markdown tables
-- Always end with a 1-2 line "Key Action" recommendation
+- End with a 1-2 line "Key Action" recommendation if necessary
+- Dont assume any data that is not present in the data
 
 The data will be provided in the user message as JSON.
 """
@@ -83,10 +84,10 @@ def build_context(query: str) -> str:
     # Smart context selection — only send relevant data
     ctx = {}
 
-    if any(w in q for w in ["publisher", "acv", "tcv", "contract", "owner", "stakeholder", "consumption", "utilis", "utiliz"]):
+    if any(w in q for w in ["publisher", "acv", "tcv", "contract", "owner", "stakeholder", "consumption", "utilise", "utilize"]):
         ctx["cisco_publishers"] = publishers
 
-    if any(w in q for w in ["license", "licence", "software", "unused", "compliance", "overage", "renewal", "expir"]):
+    if any(w in q for w in ["license", "licence", "software", "unused", "compliance", "overage", "renewal", "expiry"]):
         ctx["software_licenses"] = licenses
 
     if any(w in q for w in ["incident", "p1", "sla", "breach", "outage", "ticket", "open", "root cause", "repeat"]):

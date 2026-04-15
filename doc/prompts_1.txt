@@ -1,0 +1,11 @@
+🔹 Prompts
+“Which software licenses are expiring soon?”
+“List all software with more than 100 installations.”
+“Which vendor has the highest number of licenses?”
+“Show me all Microsoft software licenses.”
+“Which licenses need renewal in the next 3 months?”
+“Compare installed count across all software.”
+“Which software is underutilized?”
+“Give me a summary of all vendors and their products.”
+“Which software has the lowest installation count?”
+“List all licenses sorted by renewal date.”

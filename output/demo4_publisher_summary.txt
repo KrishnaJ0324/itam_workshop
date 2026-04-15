@@ -1,0 +1,236 @@
+  PUBLISHER: ADOBE  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Adobe Creative Cloud              64%    48%   2025-01-01     2027-12-31         $280,000       $560,000  ✅ HEALTHY
+    Owner: Marketing                 Stakeholders: Marketing / Design / Communications
+
+  Adobe Total  →  ACV: $280,000   TCV: $560,000
+  PUBLISHER: ASANA  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Asana Business                    48%    31%   2025-06-01     2027-05-31         $160,000       $320,000  🟡 LOW USAGE
+    Owner: Marketing                 Stakeholders: Marketing / Operations / PMO
+
+  Asana Total  →  ACV: $160,000   TCV: $320,000
+  PUBLISHER: ATLASSIAN  (2 titles)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Jira Software                     89%    82%   2025-01-01     2027-12-31         $180,000       $360,000  ✅ HEALTHY
+    Owner: Engineering               Stakeholders: Engineering / PMO / QA
+  Confluence                        76%    58%   2025-01-01     2027-12-31         $120,000       $240,000  ✅ HEALTHY
+    Owner: IT Operations             Stakeholders: All Departments
+
+  Atlassian Total  →  ACV: $300,000   TCV: $600,000
+  PUBLISHER: CISCO  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Webex Suite                       71%    54%   2025-09-01     2027-08-31         $280,000       $560,000  ✅ HEALTHY
+    Owner: IT Operations             Stakeholders: IT / Sales / Customer Success
+
+  Cisco Total  →  ACV: $280,000   TCV: $560,000
+  PUBLISHER: CROWDSTRIKE  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  CrowdStrike Falcon                99%    97%   2025-01-01     2028-12-31         $950,000     $2,850,000  🔵 CRITICAL DEP
+    Owner: CISO                      Stakeholders: IT Security / All Endpoints
+
+  CrowdStrike Total  →  ACV: $950,000   TCV: $2,850,000
+  PUBLISHER: DATADOG  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Datadog Pro                       86%    81%   2025-03-01     2027-02-28         $680,000     $1,360,000  ✅ HEALTHY
+    Owner: Engineering               Stakeholders: Engineering / SRE / NOC
+
+  Datadog Total  →  ACV: $680,000   TCV: $1,360,000
+  PUBLISHER: DOCUSIGN  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  DocuSign CLM                      77%    61%   2025-03-01     2027-02-28         $240,000       $480,000  ✅ HEALTHY
+    Owner: Legal                     Stakeholders: Legal / Sales / Finance
+
+  DocuSign Total  →  ACV: $240,000   TCV: $480,000
+  PUBLISHER: ELASTIC  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Elastic Enterprise                69%    55%   2025-07-01     2027-06-30         $380,000       $760,000  ✅ HEALTHY
+    Owner: Engineering               Stakeholders: Engineering / Data / IT Security
+
+  Elastic Total  →  ACV: $380,000   TCV: $760,000
+  PUBLISHER: HASHICORP  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Terraform Enterprise              79%    72%   2025-01-01     2027-12-31         $420,000       $840,000  ✅ HEALTHY
+    Owner: Cloud Operations          Stakeholders: Engineering / DevOps / Cloud
+
+  HashiCorp Total  →  ACV: $420,000   TCV: $840,000
+  PUBLISHER: LUCID  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Lucidchart Enterprise             44%    28%   2025-01-01     2027-12-31         $120,000       $240,000  🟡 LOW USAGE
+    Owner: PMO                       Stakeholders: PMO / Architecture / Engineering
+
+  Lucid Total  →  ACV: $120,000   TCV: $240,000
+  PUBLISHER: MICROSOFT  (5 titles)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Microsoft 365 E5                  94%    78%   2025-01-01     2028-12-31       $1,850,000     $5,550,000  ✅ HEALTHY
+    Owner: IT Operations             Stakeholders: All Departments
+  Azure Enterprise Agreement        88%    71%   2025-04-01     2028-03-31       $3,200,000     $9,600,000  ✅ HEALTHY
+    Owner: Cloud Operations          Stakeholders: Engineering / DevOps / IT
+  GitHub Enterprise                 72%    65%   2025-07-01     2027-06-30         $480,000       $960,000  ✅ HEALTHY
+    Owner: Engineering               Stakeholders: Engineering / DevOps
+  Power BI Premium                  61%    44%   2025-01-01     2027-12-31         $320,000       $640,000  ✅ HEALTHY
+    Owner: Finance                   Stakeholders: Finance / Strategy / PMO
+  Microsoft Visio                   38%    22%   2025-03-01     2027-02-28         $180,000       $180,000  🟡 LOW USAGE
+    Owner: PMO                       Stakeholders: PMO / Architecture
+
+  Microsoft Total  →  ACV: $6,030,000   TCV: $16,930,000
+  PUBLISHER: MIRO  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Miro Enterprise                   56%    39%   2025-01-01     2027-12-31         $140,000       $280,000  🟡 LOW USAGE
+    Owner: Strategy                  Stakeholders: Strategy / Product / PMO
+
+  Miro Total  →  ACV: $140,000   TCV: $280,000
+  PUBLISHER: OKTA  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Okta SSO                          99%    96%   2025-01-01     2028-12-31         $420,000     $1,260,000  🔵 CRITICAL DEP
+    Owner: IT Operations             Stakeholders: All Departments
+
+  Okta Total  →  ACV: $420,000   TCV: $1,260,000
+  PUBLISHER: ORACLE  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  NetSuite ERP                      95%    91%   2024-01-01     2029-12-31       $3,200,000    $19,200,000  🔵 CRITICAL DEP
+    Owner: CFO                       Stakeholders: Finance / Operations / Supply Chain
+
+  Oracle Total  →  ACV: $3,200,000   TCV: $19,200,000
+  PUBLISHER: PAGERDUTY  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  PagerDuty Business                84%    78%   2025-01-01     2027-12-31         $240,000       $480,000  ✅ HEALTHY
+    Owner: IT Operations             Stakeholders: IT / Engineering / NOC
+
+  PagerDuty Total  →  ACV: $240,000   TCV: $480,000
+  PUBLISHER: PALO ALTO NETWORKS  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Prisma Cloud                      81%    73%   2025-06-01     2027-05-31         $780,000     $1,560,000  ✅ HEALTHY
+    Owner: CISO                      Stakeholders: Cloud / DevSecOps / Engineering
+
+  Palo Alto Networks Total  →  ACV: $780,000   TCV: $1,560,000
+  PUBLISHER: SAP  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  SAP Concur                        82%    74%   2025-07-01     2027-06-30         $480,000     $1,440,000  ✅ HEALTHY
+    Owner: Finance                   Stakeholders: Finance / HR / All Travelers
+
+  SAP Total  →  ACV: $480,000   TCV: $1,440,000
+  PUBLISHER: SALESFORCE  (3 titles)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Salesforce CRM                    91%    83%   2025-07-01     2027-06-30         $920,000     $2,760,000  ✅ HEALTHY
+    Owner: Sales Operations          Stakeholders: Sales / Marketing / CS
+  Salesforce Marketing Cloud        67%    51%   2025-01-01     2027-12-31         $540,000     $1,080,000  ✅ HEALTHY
+    Owner: Marketing                 Stakeholders: Marketing / Digital
+  Tableau Desktop                   58%    41%   2025-10-01     2027-09-30         $540,000     $1,080,000  ✅ HEALTHY
+    Owner: Finance                   Stakeholders: Finance / Sales / Strategy
+
+  Salesforce Total  →  ACV: $2,000,000   TCV: $4,920,000
+  PUBLISHER: SERVICENOW  (2 titles)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  ServiceNow ITSM                   97%    91%   2025-01-01     2029-12-31       $1,450,000     $7,250,000  🔵 CRITICAL DEP
+    Owner: IT Director               Stakeholders: IT / HR / Facilities
+  ServiceNow HRSD                   74%    62%   2025-04-01     2027-03-31         $680,000     $1,360,000  ✅ HEALTHY
+    Owner: HR Director               Stakeholders: HR / People Operations
+
+  ServiceNow Total  →  ACV: $2,130,000   TCV: $8,610,000
+  PUBLISHER: SLACK  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Slack Business+                   91%    84%   2025-01-01     2027-06-30         $220,000       $330,000  ✅ HEALTHY
+    Owner: Engineering               Stakeholders: Engineering / Product / Sales
+
+  Slack Total  →  ACV: $220,000   TCV: $330,000
+  PUBLISHER: SNYK  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Snyk Enterprise                   73%    67%   2025-04-01     2027-03-31         $360,000       $720,000  ✅ HEALTHY
+    Owner: Engineering               Stakeholders: Engineering / DevSecOps
+
+  Snyk Total  →  ACV: $360,000   TCV: $720,000
+  PUBLISHER: SPLUNK  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Splunk Enterprise                 98%    94%   2025-03-01     2027-02-28       $2,100,000     $6,300,000  🔵 CRITICAL DEP
+    Owner: CISO                      Stakeholders: IT Security / NOC / Engineering
+
+  Splunk Total  →  ACV: $2,100,000   TCV: $6,300,000
+  PUBLISHER: VERACODE  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Veracode Platform                 66%    52%   2025-04-01     2027-03-31         $280,000       $560,000  ✅ HEALTHY
+    Owner: CISO                      Stakeholders: Engineering / DevSecOps / QA
+
+  Veracode Total  →  ACV: $280,000   TCV: $560,000
+  PUBLISHER: WORKDAY  (2 titles)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Workday HCM                       96%    89%   2024-06-01     2029-05-31       $2,100,000    $10,500,000  🔵 CRITICAL DEP
+    Owner: CHRO                      Stakeholders: HR / Finance / Legal
+  Workday Financials                93%    87%   2024-06-01     2029-05-31       $1,800,000     $9,000,000  ✅ HEALTHY
+    Owner: CFO                       Stakeholders: Finance / Accounting / Audit
+
+  Workday Total  →  ACV: $3,900,000   TCV: $19,500,000
+  PUBLISHER: ZENDESK  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Zendesk Suite                     88%    79%   2025-10-01     2027-09-30         $520,000     $1,040,000  ✅ HEALTHY
+    Owner: CS Director               Stakeholders: Customer Success / Support
+
+  Zendesk Total  →  ACV: $520,000   TCV: $1,040,000
+  PUBLISHER: ZOOM  (1 title)
+──────────────────────────────────────────────────────────────────────────────
+  Title                           Cons%  Util% Contract Start  Contract End            ACV            TCV  Status
+  --------------------------------------------------------------------------
+  Zoom Workplace                    87%    69%   2025-01-01     2027-12-31         $380,000       $760,000  ✅ HEALTHY
+    Owner: IT Operations             Stakeholders: All Departments
+
+  Zoom Total  →  ACV: $380,000   TCV: $760,000
+  Total publishers tracked   : 26
+  Total software titles      : 35
+  Total Annual Contract Value: $26,990,000
+  Total Contract Value (TCV) : $92,460,000
+  Flag           Publisher          Title                          Expiry                 ACV
+  ------------------------------------------------------------------------
+  🟡 LOW USAGE    Asana              Asana Business                 2027-05-31        $160,000
+  🟡 LOW USAGE    Lucid              Lucidchart Enterprise          2027-12-31        $120,000
+  🟡 LOW USAGE    Microsoft          Microsoft Visio                2027-02-28        $180,000
+  🟡 LOW USAGE    Miro               Miro Enterprise                2027-12-31        $140,000

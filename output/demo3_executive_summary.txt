@@ -1,0 +1,61 @@
+
+======================================================================
+  WEEKLY IT OPERATIONS EXECUTIVE SUMMARY
+  Week of April 15, 2026
+  Prepared by: AI-Assisted IT Operations Platform
+======================================================================
+
+OVERVIEW
+--------
+This week's operational data highlights three areas requiring leadership
+attention: recurring infrastructure incidents, software compliance
+exposure, and contract renewals due in the next 90 days.
+
+──────────────────────────────────────────────
+1. INCIDENT MANAGEMENT
+──────────────────────────────────────────────
+• 23 P1 critical incidents were raised this period.
+• 4 tickets remain open and unresolved — immediate review recommended.
+• 33 incidents (66%) were repeat occurrences of known issues.
+• SLA breach rate: 65% of closed tickets exceeded target resolution time.
+
+TOP ISSUE: "Network Outage" is the most frequent incident category
+(10 occurrences). The leading root cause across repeat
+incidents is "Firewall rule misconfiguration" (10 cases) — this is a
+systemic issue that warrants a permanent fix, not repeated patching.
+
+RECOMMENDED ACTION: Assign a dedicated remediation task to address
+"Firewall rule misconfiguration" once and for all. Estimated incident reduction: 30–40%.
+
+──────────────────────────────────────────────
+2. SOFTWARE LICENSE & COMPLIANCE
+──────────────────────────────────────────────
+• 25 software titles have not been used in 90+ days.
+• Potential annual savings from unused licenses: $1,793,000
+• 6 titles have more installs than purchased licenses (compliance risk).
+• 4 of these are CRITICAL — immediate remediation required.
+
+RECOMMENDED ACTION: Review the 25 unused titles with department
+heads before next quarter. Priority: $1,793,000 in recoverable spend.
+
+──────────────────────────────────────────────
+3. CONTRACT RENEWALS (NEXT 90 DAYS)
+──────────────────────────────────────────────
+• 0 software contracts expire within 90 days.
+• Combined annual value: $0
+
+RECOMMENDED ACTION: Procurement review meeting needed this week.
+Vendors: .
+
+──────────────────────────────────────────────
+SUMMARY FOR LEADERSHIP
+──────────────────────────────────────────────
+  Financial exposure (unused licenses)  : $1,793,000
+  Compliance violations                 : 6 titles
+  Open incidents                        : 4
+  SLA breach rate                       : 65%
+  Contracts expiring (90 days)          : 0
+
+This summary was generated automatically from operational data.
+No manual data preparation was required.
+======================================================================

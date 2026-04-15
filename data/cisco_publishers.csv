@@ -1,0 +1,36 @@
+Publisher,Software Title,Category,Consumption %,Utilisation %,Contract Start,Contract End,ACV (USD),TCV (USD),Contract Owner,Key Stakeholders
+Microsoft,Microsoft 365 E5,Productivity,94,78,2025-01-01,2028-12-31,1850000,5550000,IT Operations,All Departments
+Microsoft,Azure Enterprise Agreement,Cloud Infrastructure,88,71,2025-04-01,2028-03-31,3200000,9600000,Cloud Operations,Engineering / DevOps / IT
+Microsoft,GitHub Enterprise,Developer Tools,72,65,2025-07-01,2027-06-30,480000,960000,Engineering,Engineering / DevOps
+Microsoft,Power BI Premium,Analytics,61,44,2025-01-01,2027-12-31,320000,640000,Finance,Finance / Strategy / PMO
+Microsoft,Microsoft Visio,Diagramming,38,22,2025-03-01,2027-02-28,180000,180000,PMO,PMO / Architecture
+Salesforce,Salesforce CRM,CRM,91,83,2025-07-01,2027-06-30,920000,2760000,Sales Operations,Sales / Marketing / CS
+Salesforce,Salesforce Marketing Cloud,Marketing Automation,67,51,2025-01-01,2027-12-31,540000,1080000,Marketing,Marketing / Digital
+Salesforce,Tableau Desktop,Analytics,58,41,2025-10-01,2027-09-30,540000,1080000,Finance,Finance / Sales / Strategy
+ServiceNow,ServiceNow ITSM,IT Service Management,97,91,2025-01-01,2029-12-31,1450000,7250000,IT Director,IT / HR / Facilities
+ServiceNow,ServiceNow HRSD,HR Service Delivery,74,62,2025-04-01,2027-03-31,680000,1360000,HR Director,HR / People Operations
+Workday,Workday HCM,HR Platform,96,89,2024-06-01,2029-05-31,2100000,10500000,CHRO,HR / Finance / Legal
+Workday,Workday Financials,Finance Platform,93,87,2024-06-01,2029-05-31,1800000,9000000,CFO,Finance / Accounting / Audit
+Splunk,Splunk Enterprise,Security & Observability,98,94,2025-03-01,2027-02-28,2100000,6300000,CISO,IT Security / NOC / Engineering
+CrowdStrike,CrowdStrike Falcon,Endpoint Security,99,97,2025-01-01,2028-12-31,950000,2850000,CISO,IT Security / All Endpoints
+Okta,Okta SSO,Identity & Access,99,96,2025-01-01,2028-12-31,420000,1260000,IT Operations,All Departments
+Palo Alto Networks,Prisma Cloud,Cloud Security,81,73,2025-06-01,2027-05-31,780000,1560000,CISO,Cloud / DevSecOps / Engineering
+Zoom,Zoom Workplace,Collaboration,87,69,2025-01-01,2027-12-31,380000,760000,IT Operations,All Departments
+Cisco,Webex Suite,Collaboration,71,54,2025-09-01,2027-08-31,280000,560000,IT Operations,IT / Sales / Customer Success
+Atlassian,Jira Software,Project Management,89,82,2025-01-01,2027-12-31,180000,360000,Engineering,Engineering / PMO / QA
+Atlassian,Confluence,Knowledge Management,76,58,2025-01-01,2027-12-31,120000,240000,IT Operations,All Departments
+Oracle,NetSuite ERP,ERP,95,91,2024-01-01,2029-12-31,3200000,19200000,CFO,Finance / Operations / Supply Chain
+SAP,SAP Concur,Travel & Expense,82,74,2025-07-01,2027-06-30,480000,1440000,Finance,Finance / HR / All Travelers
+Adobe,Adobe Creative Cloud,Design & Creative,64,48,2025-01-01,2027-12-31,280000,560000,Marketing,Marketing / Design / Communications
+Slack,Slack Business+,Messaging,91,84,2025-01-01,2027-06-30,220000,330000,Engineering,Engineering / Product / Sales
+DocuSign,DocuSign CLM,Contract Management,77,61,2025-03-01,2027-02-28,240000,480000,Legal,Legal / Sales / Finance
+Zendesk,Zendesk Suite,Customer Support,88,79,2025-10-01,2027-09-30,520000,1040000,CS Director,Customer Success / Support
+Miro,Miro Enterprise,Visual Collaboration,56,39,2025-01-01,2027-12-31,140000,280000,Strategy,Strategy / Product / PMO
+Asana,Asana Business,Work Management,48,31,2025-06-01,2027-05-31,160000,320000,Marketing,Marketing / Operations / PMO
+Snyk,Snyk Enterprise,Developer Security,73,67,2025-04-01,2027-03-31,360000,720000,Engineering,Engineering / DevSecOps
+HashiCorp,Terraform Enterprise,Infrastructure as Code,79,72,2025-01-01,2027-12-31,420000,840000,Cloud Operations,Engineering / DevOps / Cloud
+Datadog,Datadog Pro,Monitoring & APM,86,81,2025-03-01,2027-02-28,680000,1360000,Engineering,Engineering / SRE / NOC
+PagerDuty,PagerDuty Business,Incident Management,84,78,2025-01-01,2027-12-31,240000,480000,IT Operations,IT / Engineering / NOC
+Elastic,Elastic Enterprise,Search & Analytics,69,55,2025-07-01,2027-06-30,380000,760000,Engineering,Engineering / Data / IT Security
+Lucid,Lucidchart Enterprise,Diagramming,44,28,2025-01-01,2027-12-31,120000,240000,PMO,PMO / Architecture / Engineering
+Veracode,Veracode Platform,Application Security,66,52,2025-04-01,2027-03-31,280000,560000,CISO,Engineering / DevSecOps / QA

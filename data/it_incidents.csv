@@ -1,0 +1,51 @@
+Ticket ID,Category,Priority,Department,Assigned Team,Created Date,Resolved Date,SLA Hours,Actual Hours,Status,Repeat Issue,Root Cause
+INC0012841,Network Outage,P1,Finance,Network Ops,2025-01-06,2025-01-06,4,6,Closed,Yes,Firewall rule misconfiguration
+INC0012842,Application Down,P1,Sales,App Support,2025-01-07,2025-01-07,4,3,Closed,No,Database connection timeout
+INC0012843,VPN Access,P2,HR,IT Helpdesk,2025-01-08,2025-01-09,8,14,Closed,Yes,Certificate expiry
+INC0012844,Laptop Performance,P3,Marketing,IT Helpdesk,2025-01-09,2025-01-12,24,58,Closed,No,Insufficient RAM
+INC0012845,Email Delivery Failure,P2,All Departments,Email Ops,2025-01-10,2025-01-10,8,5,Closed,No,SMTP relay misconfiguration
+INC0012846,Printer Offline,P4,Finance,IT Helpdesk,2025-01-13,2025-01-15,48,52,Closed,Yes,Driver conflict
+INC0012847,Network Outage,P1,Engineering,Network Ops,2025-01-14,2025-01-14,4,4,Closed,Yes,Firewall rule misconfiguration
+INC0012848,Software License Error,P2,Finance,IT Helpdesk,2025-01-15,2025-01-16,8,18,Closed,No,License count exceeded
+INC0012849,Phishing Attempt,P1,HR,IT Security,2025-01-16,2025-01-16,4,2,Closed,No,User training gap
+INC0012850,Application Down,P1,Finance,App Support,2025-01-17,2025-01-18,4,22,Closed,Yes,Database connection timeout
+INC0012851,VPN Access,P2,Sales,IT Helpdesk,2025-01-20,2025-01-21,8,12,Closed,Yes,Certificate expiry
+INC0012852,Storage Full,P2,Engineering,Infra Ops,2025-01-21,2025-01-21,8,6,Closed,No,Log files not purged
+INC0012853,Network Outage,P1,Sales,Network Ops,2025-01-22,2025-01-22,4,5,Closed,Yes,Firewall rule misconfiguration
+INC0012854,Access Request,P3,Finance,IT Helpdesk,2025-01-23,2025-01-28,24,96,Closed,No,Approval chain delay
+INC0012855,Laptop Performance,P3,Engineering,IT Helpdesk,2025-01-24,2025-01-27,24,62,Closed,No,Disk fragmentation
+INC0012856,Email Delivery Failure,P2,Sales,Email Ops,2025-02-03,2025-02-03,8,4,Closed,Yes,SMTP relay misconfiguration
+INC0012857,Application Down,P1,HR,App Support,2025-02-04,2025-02-04,4,3,Closed,No,Memory leak patched
+INC0012858,Phishing Attempt,P1,Finance,IT Security,2025-02-05,2025-02-05,4,1,Closed,Yes,User training gap
+INC0012859,VPN Access,P2,Marketing,IT Helpdesk,2025-02-06,2025-02-07,8,16,Closed,Yes,Certificate expiry
+INC0012860,Network Outage,P1,All Departments,Network Ops,2025-02-10,2025-02-10,4,7,Closed,Yes,Firewall rule misconfiguration
+INC0012861,Software License Error,P2,Engineering,IT Helpdesk,2025-02-11,2025-02-12,8,20,Closed,Yes,License count exceeded
+INC0012862,Storage Full,P2,Finance,Infra Ops,2025-02-12,2025-02-13,8,9,Closed,No,Backup job misconfigured
+INC0012863,Access Request,P3,HR,IT Helpdesk,2025-02-13,2025-02-20,24,144,Closed,No,Approval chain delay
+INC0012864,Printer Offline,P4,Marketing,IT Helpdesk,2025-02-14,2025-02-17,48,66,Closed,Yes,Driver conflict
+INC0012865,Application Down,P1,Finance,App Support,2025-02-18,2025-02-18,4,4,Closed,Yes,Database connection timeout
+INC0012866,Phishing Attempt,P1,All Departments,IT Security,2025-02-19,2025-02-19,4,2,Closed,Yes,User training gap
+INC0012867,Network Outage,P1,Finance,Network Ops,2025-02-24,2025-02-24,4,8,Closed,Yes,Firewall rule misconfiguration
+INC0012868,VPN Access,P2,Engineering,IT Helpdesk,2025-02-25,2025-02-26,8,11,Closed,Yes,Certificate expiry
+INC0012869,Laptop Performance,P3,HR,IT Helpdesk,2025-02-26,2025-03-01,24,54,Closed,No,Insufficient RAM
+INC0012870,Software License Error,P2,Marketing,IT Helpdesk,2025-02-27,2025-02-28,8,14,Closed,Yes,License count exceeded
+INC0012871,Network Outage,P1,Engineering,Network Ops,2025-03-03,2025-03-03,4,5,Closed,Yes,Firewall rule misconfiguration
+INC0012872,Application Down,P1,Sales,App Support,2025-03-04,2025-03-05,4,18,Closed,Yes,Database connection timeout
+INC0012873,Phishing Attempt,P1,Finance,IT Security,2025-03-05,2025-03-05,4,1,Closed,Yes,User training gap
+INC0012874,Access Request,P3,Sales,IT Helpdesk,2025-03-06,2025-03-13,24,132,Closed,No,Approval chain delay
+INC0012875,Storage Full,P2,All Departments,Infra Ops,2025-03-10,2025-03-10,8,7,Closed,No,Log files not purged
+INC0012876,VPN Access,P2,Finance,IT Helpdesk,2025-03-11,2025-03-12,8,13,Closed,Yes,Certificate expiry
+INC0012877,Network Outage,P1,HR,Network Ops,2025-03-12,2025-03-12,4,6,Closed,Yes,Firewall rule misconfiguration
+INC0012878,Email Delivery Failure,P2,Engineering,Email Ops,2025-03-13,2025-03-13,8,3,Closed,No,SMTP relay misconfiguration
+INC0012879,Application Down,P1,Finance,App Support,2025-03-17,2025-03-18,4,26,Closed,Yes,Database connection timeout
+INC0012880,Software License Error,P2,Finance,IT Helpdesk,2025-03-18,2025-03-19,8,22,Closed,Yes,License count exceeded
+INC0012881,Phishing Attempt,P1,Sales,IT Security,2025-03-19,2025-03-19,4,2,Closed,Yes,User training gap
+INC0012882,Network Outage,P1,Finance,Network Ops,2025-03-24,2025-03-24,4,9,Closed,Yes,Firewall rule misconfiguration
+INC0012883,VPN Access,P2,All Departments,IT Helpdesk,2025-03-25,2025-03-27,8,19,Closed,Yes,Certificate expiry
+INC0012884,Access Request,P3,Engineering,IT Helpdesk,2025-03-26,2025-04-02,24,148,Open,No,Approval chain delay
+INC0012885,Application Down,P1,HR,App Support,2025-03-31,2025-03-31,4,3,Closed,No,Patch applied
+INC0012886,Network Outage,P1,Sales,Network Ops,2025-04-01,2025-04-01,4,5,Closed,Yes,Firewall rule misconfiguration
+INC0012887,Phishing Attempt,P1,Finance,IT Security,2025-04-02,2025-04-02,4,1,Closed,Yes,User training gap
+INC0012888,Software License Error,P2,HR,IT Helpdesk,2025-04-03,,8,,Open,Yes,License count exceeded
+INC0012889,VPN Access,P2,Marketing,IT Helpdesk,2025-04-07,,8,,Open,Yes,Certificate expiry
+INC0012890,Network Outage,P1,Finance,Network Ops,2025-04-08,,4,,Open,Yes,Firewall rule misconfiguration

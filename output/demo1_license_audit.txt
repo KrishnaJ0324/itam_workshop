@@ -1,0 +1,39 @@
+  Software                     Department         Days Unused  Annual Cost  Flag
+  ----------------------------------------------------------------
+  NetSuite ERP                 Finance                    379 $    320,000  ⚠ HIGH PRIORITY
+  Workday HCM                  HR                         391 $    210,000  ⚠ HIGH PRIORITY
+  Splunk Enterprise            IT Security                379 $    210,000  ⚠ HIGH PRIORITY
+  Microsoft 365 E5             All Departments            379 $    185,000  ⚠ HIGH PRIORITY
+  ServiceNow ITSM              IT Operations              379 $    145,000  ⚠ HIGH PRIORITY
+  CrowdStrike Falcon           IT Security                379 $     95,000  ⚠ HIGH PRIORITY
+  Salesforce CRM               Sales                      383 $     92,000  ⚠ HIGH PRIORITY
+  Tableau Desktop              Finance                    580 $     54,000  ⚠ HIGH PRIORITY
+  Zendesk Suite                Customer Success           386 $     52,000  ⚠ HIGH PRIORITY
+  GitHub Enterprise            Engineering                396 $     48,000  ⚠ HIGH PRIORITY
+  SAP Concur                   Finance                    640 $     48,000  ⚠ HIGH PRIORITY
+  Okta SSO                     IT Operations              379 $     42,000  ⚠ HIGH PRIORITY
+  Zoom Workplace               All Departments            379 $     38,000  ⚠ HIGH PRIORITY
+  AutoCAD LT                   Engineering                544 $     36,000  ⚠ HIGH PRIORITY
+  Power BI Premium             Finance                    532 $     32,000  ⚠ HIGH PRIORITY
+  Adobe Creative Cloud         Marketing                  516 $     28,000  ⚠ HIGH PRIORITY
+  Webex Suite                  IT Operations              589 $     28,000  ⚠ HIGH PRIORITY
+  DocuSign                     Legal                      618 $     24,000  ⚠ HIGH PRIORITY
+  Slack Business+              Engineering                379 $     22,000  ⚠ HIGH PRIORITY
+  Jira Software                Engineering                379 $     18,000  ⚠ HIGH PRIORITY
+  Microsoft Visio              PMO                        529 $     18,000  ⚠ HIGH PRIORITY
+  Asana Business               Marketing                  462 $     16,000  ⚠ HIGH PRIORITY
+  Miro                         Strategy                   511 $     14,000  ⚠ HIGH PRIORITY
+  Confluence                   All Departments            429 $     12,000  ⚠ HIGH PRIORITY
+  Snagit                       Marketing                  561 $      6,000  
+
+  Total unused licenses: 25  |  Potential annual savings: $1,793,000
+  Software                     Vendor          Licensed  Installed  Over  Risk
+  ----------------------------------------------------------------
+  GitHub Enterprise            Microsoft             90         94     4  🔴 CRITICAL
+  Power BI Premium             Microsoft             30         34     4  🔴 CRITICAL
+  Adobe Creative Cloud         Adobe                 30         33     3  🔴 CRITICAL
+  Tableau Desktop              Salesforce            25         28     3  🔴 CRITICAL
+  Jira Software                Atlassian             90         92     2  🟠 HIGH
+  Microsoft Visio              Microsoft             20         22     2  🟠 HIGH
+  Software                     Owner                  Renewal Date   Days Left  Annual Cost
+  ----------------------------------------------------------------

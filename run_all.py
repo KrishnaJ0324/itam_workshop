@@ -27,10 +27,10 @@ if hasattr(sys.stderr, 'reconfigure'):
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 SCRIPTS = [
-    ("Demo 1", "Enterprise Software License Audit",    "scripts/demo1_license_audit.py"),
-    ("Demo 2", "IT Incident Analysis",                 "scripts/demo2_incident_analysis.py"),
-    ("Demo 3", "AI-Generated Executive Summary",       "scripts/demo3_executive_summary.py"),
-    ("Demo 4", "Publisher Software Asset Summary",     "scripts/demo4_publisher_summary.py"),
+    ("Demo 1", "Enterprise Software License Audit",    "code_files/demo1_license_audit.py"),
+    ("Demo 2", "IT Incident Analysis",                 "code_files/demo2_incident_analysis.py"),
+    ("Demo 3", "AI-Generated Executive Summary",       "code_files/demo3_executive_summary.py"),
+    ("Demo 4", "Publisher Software Asset Summary",     "code_files/demo4_publisher_summary.py"),
 ]
 
 def banner(text, char="=", width=70):
